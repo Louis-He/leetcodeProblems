@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9a172b-a120-493e-b3f9-028e98d870f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/146.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/611.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/659.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/146.cpp">
+        <entry file="file://$PROJECT_DIR$/659.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="23" lean-forward="true" selection-end-line="100" selection-end-column="3" />
-              <folding>
-                <element signature="e#172#226#0" expanded="true" />
-                <element signature="e#920#2126#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="214">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="17" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -68,6 +64,7 @@
         <option value="$PROJECT_DIR$/542.cpp" />
         <option value="$PROJECT_DIR$/611.cpp" />
         <option value="$PROJECT_DIR$/146.cpp" />
+        <option value="$PROJECT_DIR$/659.cpp" />
       </list>
     </option>
   </component>
@@ -76,17 +73,6 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/leetcode.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/dictionaries/siweihe.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -112,6 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -144,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560265886524</updated>
       <workItem from="1560265889328" duration="3355000" />
-      <workItem from="1560276245603" duration="1861000" />
+      <workItem from="1560276245603" duration="3965000" />
     </task>
     <task id="LOCAL-00001" summary="add 542">
       <created>1560267644717</created>
@@ -157,13 +144,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5216000" />
+    <option name="totallyTimeSpent" value="7320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18839541" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18839541" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
@@ -175,7 +162,7 @@
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49856734" visible="true" weight="0.25603864" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49856734" visible="true" weight="0.25603864" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.49946696" weight="0.32936507" />
       <window_info anchor="right" id="make" order="0" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="1" weight="0.32995737" />
@@ -223,12 +210,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/146.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="23" lean-forward="true" selection-end-line="100" selection-end-column="3" />
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#172#226#0" expanded="true" />
             <element signature="e#920#2126#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/659.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
